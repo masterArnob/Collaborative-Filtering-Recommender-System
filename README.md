@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System (Content-Based)
+# 🎬 Book Recommender System (Collaborative Filtering)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![NLP](https://img.shields.io/badge/Domain-Natural%20Language%20Processing-orange.svg)
