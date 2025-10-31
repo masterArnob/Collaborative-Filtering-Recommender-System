@@ -1,0 +1,5 @@
+.env
+.env1
+# model.pkl
+.vscode/
+Datasets/
