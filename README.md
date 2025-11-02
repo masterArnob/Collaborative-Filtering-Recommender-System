@@ -17,7 +17,7 @@ The **Book Recommender System** is a **collaborative filtering recommendation mo
 ## 🧩 Project Workflow
 
 <p align="center">
-  <img src="/assets/process_flow.png" alt="Workflow" width="850" style="border-radius:8px;">
+  <img src="/assets/workflow.png" alt="Workflow" width="850" style="border-radius:8px;">
 </p>
 
 <p align="center">
